@@ -25,8 +25,6 @@ Feel free to use it.
 * Deposit funds to your paper wallet by sending them to the public address.
 * Private key is used to spend funds. Do not share it!
 
-#### Tips appreciated!  
-**BTC**: 3MEmomSUDWqWmEtRNoakSxF9ZgZuxn8tJj    
 
 #
 #### Integrity validation
